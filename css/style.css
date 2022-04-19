@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #A9A9A9;
+}
+h1{
+    font-size: 1.2em;
+    font-weight: 900;
+}
+#date{
+    padding: 0.7em;
+    border-radius: 0.5em;
+    background-color: #6188A4;
+    font-size: 500;
+}
+fieldset{
+    background-color: red;
+}
+label{
+    font-weight: bold;
+}
+#pais{
+    margin-top: 2em;
+}
+
+th{
+    background-color: #5f9ea0;
+    color: #ecefe8;
+    padding: 5px;
+}
+td{
+    background-color: #ffe4c4;
+    padding:  5px;
+}
+    
